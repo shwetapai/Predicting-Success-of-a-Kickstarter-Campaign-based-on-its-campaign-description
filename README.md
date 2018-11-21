@@ -1,5 +1,7 @@
 # Project5
 
+**IDEAL PROJECT**
+
 
 **Predicting risk of Stroke in patients using Data from EHRs**
 
@@ -27,6 +29,29 @@ I then plan to apply different prediction models (LogisticRegression ,Support Ve
 
 I then plan to build an app to predict the risk of stroke. Health insurance company may use this tool to perform prescreen, save lives and decreased costs.
 
+
+
+**BACK UP PROJECT**
+
+There is a chance that I might not get access to the data for my ideal project in time.So I have a back up project in mind.
+
+For my back up project, I plan to use the  "Allstate Purchase Prediction Dataset" on Kaggle. 
+
+**Motivation**
+
+When someone has been through  a serious car accident, their main focus is on the things that matter the most: family, friends, and other loved ones. Filing insurance paperwork should be the the last thing on their mind.So the main aim of my project is 2 fold: first to predict the severity of insurance claims, and second to help the company to evaluate potential clients based on the importance of predictors.This analysis would potentially help the company to improve their customer care and claims management service.
+
+**Dateset**
+
+The dataset contains the history of car insurance quotes that each customer reviewed before making a purchase, the options they actually purchased (the "purchase point"), and data about the customer and their car. The datset contains a training data set with 188,318 rows and a testing data set with 125,546 rows. The training data set consists of 188,318 observations and 131 variables which include 72 binary categorical variables, 43 non-binary variables with 3-326 levels, 14 continuous variables and the outcome variable, "loss".
+
+**Part 1**
+
+After data cleaning and processing, I plan to fit several models and then select the best model and optimize it.I plan to do all the analysis in PySpark to get learn more about the methodology.
+
+**Part 2**
+
+After fitting the best optmized model on the testing set, I plan to build an app that would predict the severity of a cliam.It would be helpful to the company to make better business decisions.
 
 
 
