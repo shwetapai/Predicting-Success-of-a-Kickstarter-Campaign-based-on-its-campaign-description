@@ -51,7 +51,7 @@ After data cleaning and processing, I plan to fit several models and then select
 
 **Part 2**
 
-After fitting the best optmized model on the testing set, I plan to build an app that would predict the severity of a cliam.It would be helpful to the company to make better business decisions.
+After fitting the best optmized model on the testing set, I plan to build an app that would predict the severity of a claim.It would be helpful to the company to make better business decisions.
 
 
 
