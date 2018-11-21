@@ -33,7 +33,7 @@ I then plan to build an app to predict the risk of stroke. Health insurance comp
 
 **BACK UP PROJECT**
 
-There is a chance that I might not get access to the data for my ideal project in time.So I have a back up project in mind.
+There is a chance that I might not get access to the data for my ideal project in time (I will still be completing my ideal project).So I have a back up project in mind for project 5.
 
 For my back up project, I plan to use the  "Allstate Purchase Prediction Dataset" on Kaggle. 
 
