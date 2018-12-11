@@ -26,7 +26,7 @@ After splitting the dataset into 'training' and 'test' sets, I tried various cla
 
 I used the 'feature_importances_' feature of the model to find the most predictive features. Keeping the value of all other features constant, I  changed the value of the most predictive features by a small value to observe the change in the caipaign's probablity of success.Changing certain features reulted in a very modest improvement in the campaign's probablity of success.
 
-**Results **
+**Results**
 
 I utilized the above model in a flask app. The app takes a link to a kickstarter project as an input and reports the probablity of a project's success.I initially aslo included functions that recommend changes that could improve a project's probablity of success. I decided focus on the current probablity of success as the features changes led to a very modest improvement in the project's probablity of success.
 
