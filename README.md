@@ -1,6 +1,6 @@
 # Project5 :**Kickstarter Campaign Analyzer**
 
-**Motivation**
+## **Motivation**
 
 Kickstarter is the world's largest funding platform for creative projects.It is useful for small enterpreners particularly those that may otherwise struggle to obtain capital for their projects.As of October 2018, only 36 % of the projects were successfully funded on kickstarter.com.
 
