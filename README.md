@@ -1,4 +1,4 @@
-# Project5 :**Kickstarter Campaign Analyzer**
+# Project5 :**Predicting Success of a Kickstarter Campaign bsed on its campaign description**
 
 ## **Motivation**
 
