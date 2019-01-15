@@ -1,4 +1,4 @@
-# Project5 :**Predicting Success of a Kickstarter Campaign bsed on its campaign description**
+# Project5 :**Predicting Success of a Kickstarter Campaign based on its campaign description**
 
 ## **Motivation**
 
